@@ -23,3 +23,5 @@ npm run preview    # serve the production build
 - Menu, gallery, reviews and delivery fee: `src/data.js`.
 - Checkout is a demo. No payment is taken and no order is placed. Connect a real gateway before going live.
 - Product and gallery pictures are emoji on coloured tiles. Replace them with photos in `public/` and update `src/data.js`.
+# kulhad-and-co-website
+Kulhad &amp; Co. – Premium Chai Brand Website
